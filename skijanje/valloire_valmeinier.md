@@ -27,14 +27,21 @@
        na 10:25-11:06 je skratio nekom stazom koja nije ucrtana
      - 13:08 [Petites Anglaises](https://openskimap.org/?obj=0d005006645165421fc70412522f79082b3b913b#12.5/45.17588/6.50058)
 
-3. [Valmeinier 03/20 Descente piste verte ÉPILOBES](https://www.youtube.com/watch?v=fGGl15Q26tM)
+3. [France Valmeinier Piste Neuvache]https://www.youtube.com/watch?v=dYYokCzcOto
+   - Tezina staza: plava
+   - Staze:
+     - 00:05 - [Neuvache](https://openskimap.org/?obj=6e1552f1404fc6e6cb80a702ea9a96298b316149#12.5/45.17383/6.49406)
+
+       Napomena: Borderi bi trebalo da izbegavaju ovu stazu posto se lik na snimku dobar deo deonice gura stapovima
+
+4. [Valmeinier 03/20 Descente piste verte ÉPILOBES](https://www.youtube.com/watch?v=fGGl15Q26tM)
    - Tezina staza: plava
    - Staze:
      - 00:09 - [Epilobes](https://openskimap.org/?obj=08190a543228c6c5004bcb64fbecabf44ed75fa7#12.5/45.17573/6.49784)
 
        na 02:25 se sa leve strane vidi sidro za kratku zelenu stazu
 
-4. [Valmeinier - piste rouge et noire MORAINE en entier](https://www.youtube.com/watch?v=FcQYbMNKVU8)
+5. [Valmeinier - piste rouge et noire MORAINE en entier](https://www.youtube.com/watch?v=FcQYbMNKVU8)
    - U naslovu stoji Valloire ali je zapravo Valmeinier
    - Tezina staza: crvena
    - Staze:
@@ -44,21 +51,27 @@
        Napmena: ZAOBICI! Na snimku je staza u prilicno losem stanju, puna hupsera
      - 02:41 - [Moraine - duza](https://openskimap.org/?obj=58a64def0155b0018d232ebdfe684e2086184079#14.85/45.17197/6.51513)
 
-5. [Valmeinier, 09.01.2020.](https://www.youtube.com/watch?v=iXByOeJrhZ8)
+6. [Valmeinier, 09.01.2020.](https://www.youtube.com/watch?v=iXByOeJrhZ8)
    - Tezina staza: crvena, plava, zelena
    - Staze:
      - 00:40 - [Moraine - duza](https://openskimap.org/?obj=58a64def0155b0018d232ebdfe684e2086184079#14.85/45.17197/6.51513)
      - 02:53 - [Rhodos](https://openskimap.org/?obj=c2fd99a9d5c82240ae6da026e6dba253f5bd7016#12.5/45.17055/6.51666)
      - 03:57 - [Reine des Prés](https://openskimap.org/?obj=d3908ee9722b5c8c9684b20c66aa496ee813c071#12.5/45.17691/6.51602)
-     - 05:47 -[Petites Anglaises](https://openskimap.org/?obj=0d005006645165421fc70412522f79082b3b913b#12.5/45.17588/6.50058)
+     - 05:47 - [Petites Anglaises](https://openskimap.org/?obj=0d005006645165421fc70412522f79082b3b913b#12.5/45.17588/6.50058)
 
-5. [Shredding freshly groomed Stade slope (🔴) in Valmeinier (Galibier-Thabor)](https://www.youtube.com/watch?v=Jj5LPccZ9JY)
+7. [Shredding freshly groomed Stade slope (🔴) in Valmeinier (Galibier-Thabor)](https://www.youtube.com/watch?v=Jj5LPccZ9JY)
     - Tezina staza: crvena
 
       Kratka crvena staza do koje se stize iz centra. Deluje da je zgodna za ucenje karvinga posto je siroka i ravna.
     - 00:03 - [Stade](https://openskimap.org/?obj=1f509849ea43a521d41b0ad817d9a9adc35f4bab#12.5/45.17588/6.50058)
 
-6. [Ski Valmenier - GRAND PLATEU - primevere - mulot - MONTISOT 26 12 2019 Valmeinier Vallore YT](https://www.youtube.com/watch?v=DNbGosBocBg)
+8. [Valloire / Valmeinier 2013 - L'Arméra, avec Papi Bernard](https://youtu.be/HXTyut1lxh4?feature=shared)
+   - Tezina staza: 
+   - Staze:
+     - 01:25 [Goulet](https://openskimap.org/?obj=9d4df4db680708de30864ca4a463f7d5fc38034c#12.5/45.16405/6.46743)
+     - 02:40 [Arméra](https://openskimap.org/?obj=ae2ae33b5537d77dfbd02b41f7955cde358bcc95#12.5/45.16749/6.46244)
+
+8. [Ski Valmenier - GRAND PLATEU - primevere - mulot - MONTISOT 26 12 2019 Valmeinier Vallore YT](https://www.youtube.com/watch?v=DNbGosBocBg)
    - Tezina staza: crvena, plava
    - Staze:
      - 00:00 - Tanjiraca [Grand Plateau](https://openskimap.org/?obj=5b1c5b2cc65bfb6e856181185ae412eead865645#12.5/45.15141/6.45919)
@@ -70,6 +83,6 @@
      - 04:14 - [Primevère](https://openskimap.org/?obj=4dcea60f2e83a6f6125f300fab2aea40b9173d73#12.5/45.15338/6.46417)
      - 05:09 - [Mulot](https://openskimap.org/?obj=190107b7003030e32bd324edf2a5e1b8781493af#12.5/45.15194/6.45915)
       - pogledati ostatak
-4. [Valloire pistes rouges BELETTE, MULOT, CAMPANULE et JB GRANGE en entier](https://www.youtube.com/watch?v=7o6tfGsBi4g)
+9. [Valloire pistes rouges BELETTE, MULOT, CAMPANULE et JB GRANGE en entier](https://www.youtube.com/watch?v=7o6tfGsBi4g)
 
-5. [Valloire - Piste Bleue COMBE ORSIERE en entier](https://www.youtube.com/watch?v=VVWN-0OWUKw)
+10. [Valloire - Piste Bleue COMBE ORSIERE en entier](https://www.youtube.com/watch?v=VVWN-0OWUKw)
