@@ -12,7 +12,7 @@ Aktivacija kartice se vrsi na dva nacina:
 
       Od informacija spremite broj telefona u obliku 097 xxx xxxx i PUK1.
 
-      Sve ove informacije imate na plasticnom okviru u kome se nalazi SIM kartica, tako da isti cuvajte cisto ak ovam ubuduce zatreba.
+      Sve ove informacije imate na plasticnom okviru u kome se nalazi SIM kartica, tako da isti cuvajte cisto ako vam ubuduce zatreba.
 
 ## Administracija kartice
 
@@ -26,9 +26,11 @@ Radi lakseg rada sa karticom (provera koliko je od paketa potroseno, koliko jos 
 
   2. Registrujte nalog na [bonbon](https://www.bonbon.hr/registracija?direct=1&register) sajtu.
 
+     Ovo je laksa varijanta ako imate vise kartica.
+
      Po registraciji naloga ulogujte se na [bonon](https://www.bonbon.hr/registracija?direct=1).
 
-     U gornjem levom delu naci **+ Dodaj broj** i kliknuti.
+     U gornjem levom delu cete naci **+ Dodaj broj** i kliknuti.
 
      U novom prozoru unosite vas broj.
 
@@ -48,9 +50,9 @@ Kartice se mogu dopuniti na tri nacina:
 
      Trazite dopunu za Bonbon, ali obrati paznju da vam ne uvale za nekog drugog operatera posto se meni to jednom desilo.
 
-     Dobijate fiskalni isecak na kome se nalazi znamenkasti kod u obliku *123* pa cetrnest cifara i na kraju #
+     Dobijate fiskalni isecak na kome se nalazi znamenkasti kod u obliku \*123* pa cetrnest cifara i na kraju #
 
-     Na primer *123*12345678901234#
+     Na primer \*123*12345678901234#
 
      Taj kod unosite na telefonu tako sto krenete u poziv, uneste ceo kod i onda pritisnete poziv.
 
@@ -91,7 +93,7 @@ Postoje i paketi za pozive i SMS poruke, ali posto te pakete nisam koristio prov
 
 ## Tips & tricks
 
-  1. Validnost kartice je po aktivaciji i svakoj dopuni 90 dana.
+  1. Validnost kartice je po aktivaciji i svakoj dopuni je 90 dana.
      Informaciju koliko je kartica jos validna mozete videti kroz aplikaciju na mobilnom telefonu, web browser-u ili unosenjem servisnog koda *121# i izborom opcije 4. Stanje racuna.
 
   2. Dopuna od 13e daje period od 365 dana validnosti kartice.
