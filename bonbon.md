@@ -6,7 +6,7 @@ Aktivacija kartice se vrsi na dva nacina:
 
    1. Ubacivanjem kartice u telefon dok ste u Hrvatskoj i pozivom bilo kog broja (dovoljno je samo da zazvoni, najbolje da pozovete svoj broj da se neko ne bi javio).
 
-   2. Kontaktiranjem tehnicke podrske preko chat-a.
+   2. Kontaktiranjem tehnicke podrske dok ste u Srbiji preko chat-a.
 
       Slozite neku tuznu pricu kako ste kupili karticu, ali ste zaboravili da je aktivirate i da ste u romingu trenutno pa niste u mogucnosti da aktivirate karticu.
 
