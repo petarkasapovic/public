@@ -8,6 +8,8 @@ Aktivacija kartice se vrsi na dva nacina:
 
    2. Kontaktiranjem tehnicke podrske dok ste u Srbiji preko chat-a.
 
+      Na [bonbon](https://www.bonbon.hr/) sajtu u donjem levom uglu imate ikonicu za chat, kliknite na nju i pojavice vam se novi prozorcic u kome unostite vase ime i broj telefona sa kartice. Da bi zaobisli bot-a samo kucajte **operater** i bicte preusmereni na operatera.
+
       Slozite neku tuznu pricu kako ste kupili karticu, ali ste zaboravili da je aktivirate i da ste u romingu trenutno pa niste u mogucnosti da aktivirate karticu.
 
       Od informacija spremite broj telefona u obliku 097 xxx xxxx i PUK1.
